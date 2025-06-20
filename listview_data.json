@@ -317,9 +317,7 @@
   "ListView149": [],
   "ListView150": [],
   "ListView151": [],
-  "ListView152": [
-    "SW01 (222x222)"
-  ],
+  "ListView152": [],
   "ListView153": [
     "SB01 (222x222)"
   ],
@@ -327,5 +325,7 @@
   "ListView155": [],
   "ListView156": [],
   "ListView157": [],
-  "ListView158": []
+  "ListView158": [
+    "SW01 (222x222)"
+  ]
 }
