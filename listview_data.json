@@ -378,14 +378,13 @@
   "ListView157": [],
   "ListView158": [],
   "ListView159": [],
-  "ListView160": [
-    "FG01 (111x111)"
-  ],
+  "ListView160": [],
   "ListView161": [
     "FP01 (111x111)"
   ],
   "ListView162": [
     "FW01 (111x111)",
-    "FW02 (111x111)"
+    "FW02 (111x111)",
+    "FG01 (111x111)"
   ]
 }
