@@ -77,7 +77,6 @@
     "50902 (420x234)"
   ],
   "ListView19": [
-    "51103 (400x239)",
     "51102 (420x240)"
   ],
   "ListView20": [
@@ -351,28 +350,5 @@
     "22602-1 (280x247.5)",
     "22603-1 (280x247.5)",
     "22601 (280x250)"
-  ],
-  "ListView142": [],
-  "ListView143": [
-    "50102 (420x220)"
-  ],
-  "ListView144": [],
-  "ListView145": [],
-  "ListView146": [],
-  "ListView147": [],
-  "ListView148": [],
-  "ListView149": [],
-  "ListView150": [],
-  "ListView151": [],
-  "ListView152": [],
-  "ListView153": [],
-  "ListView154": [],
-  "ListView155": [],
-  "ListView156": [],
-  "ListView157": [],
-  "ListView158": [],
-  "ListView159": [],
-  "ListView160": [],
-  "ListView161": [],
-  "ListView162": []
+  ]
 }
