@@ -431,7 +431,9 @@
     "SH01N (360x245)",
     "SH02N (360x228.5)"
   ],
-  "ListView101": [],
+  "ListView101": [
+    "SI01N (360x245)"
+  ],
   "ListView102": [],
   "ListView103": [],
   "ListView104": [],
