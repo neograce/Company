@@ -418,9 +418,7 @@
   "ListView99": [],
   "ListView100": [],
   "ListView101": [],
-  "ListView102": [
-    "SM01 (111x111)"
-  ],
+  "ListView102": [],
   "ListView103": [],
   "ListView104": [],
   "ListView105": [],
@@ -449,7 +447,8 @@
     "SF02 (111x111)",
     "SF01-111 (111)",
     "SH01 (111x111)",
-    "SI01 (111x111)"
+    "SI01 (111x111)",
+    "SM01 (111x111)"
   ],
   "ListView117": [],
   "ListView118": [],
