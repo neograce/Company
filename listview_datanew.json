@@ -459,7 +459,9 @@
   "ListView100": [
     "SH01 (111x111)"
   ],
-  "ListView101": [],
+  "ListView101": [
+    "SI01 (111x111)"
+  ],
   "ListView102": [],
   "ListView103": [],
   "ListView104": [],
