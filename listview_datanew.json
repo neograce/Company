@@ -360,8 +360,7 @@
   ],
   "ListView70": [
     "T0401-1 (140x240)",
-    "T0402\uC0B4\uB791 (420x235)",
-    "T0403 (420x230)"
+    "T0402\uC0B4\uB791 (420x235)"
   ],
   "ListView71": [
     "T0502 (420x260)"
@@ -488,7 +487,9 @@
   "ListView110": [],
   "ListView111": [],
   "ListView112": [],
-  "ListView113": [],
+  "ListView113": [
+    "T0403 (420x230)"
+  ],
   "ListView114": [],
   "ListView115": [],
   "ListView116": [
