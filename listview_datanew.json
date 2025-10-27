@@ -380,9 +380,7 @@
     "T1301 (420x245)"
   ],
   "ListView80": [],
-  "ListView81": [
-    "260301 (420x245)"
-  ],
+  "ListView81": [],
   "ListView82": [
     "260501 (420x245)"
   ],
@@ -406,14 +404,6 @@
     "261602 (280x211)",
     "261601 (420x245)"
   ],
-  "ListView88": [],
-  "ListView89": [],
-  "ListView90": [],
-  "ListView91": [],
-  "ListView92": [],
-  "ListView93": [],
-  "ListView94": [],
-  "ListView95": [],
   "ListView96": [
     "SA02N-1 (180x240)",
     "SA03N-1 (180x240)",
@@ -491,7 +481,9 @@
   "ListView113": [
     "T0403 (420x230)"
   ],
-  "ListView114": [],
+  "ListView114": [
+    "260301 (420x245)"
+  ],
   "ListView115": [],
   "ListView116": [
     "SI02 (180x270)",
@@ -500,5 +492,9 @@
     "SF02 (360x2353)",
     "SF02 (360x235)"
   ],
-  "ListView117": []
+  "ListView117": [],
+  "ListView118": [],
+  "ListView119": [],
+  "ListView120": [],
+  "ListView121": []
 }
