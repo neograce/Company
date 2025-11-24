@@ -152,7 +152,6 @@
     "21225 (560x270)"
   ],
   "ListView28": [
-    "21703 (560x270)",
     "21704 (560x270)"
   ],
   "ListView29": [
@@ -433,7 +432,9 @@
   "ListView105": [],
   "ListView106": [],
   "ListView107": [],
-  "ListView108": [],
+  "ListView108": [
+    "21703 (560x270)"
+  ],
   "ListView109": [],
   "ListView110": [],
   "ListView111": [],
