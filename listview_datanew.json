@@ -406,7 +406,6 @@
   ],
   "ListView98": [
     "SE01N-1 (180x270)",
-    "SE03 (300x220)",
     "SE02N (360x245)"
   ],
   "ListView99": [
@@ -447,7 +446,9 @@
   "ListView113": [],
   "ListView114": [],
   "ListView115": [],
-  "ListView116": [],
+  "ListView116": [
+    "SE03 (300x220)"
+  ],
   "ListView117": [],
   "ListView118": [],
   "ListView119": [],
