@@ -369,9 +369,7 @@
   "ListView77": [
     "T1101 (420x245)"
   ],
-  "ListView78": [
-    "T1201 (420x245)"
-  ],
+  "ListView78": [],
   "ListView79": [],
   "ListView80": [],
   "ListView81": [],
@@ -510,7 +508,9 @@
   "ListView114": [],
   "ListView115": [],
   "ListView116": [],
-  "ListView117": [],
+  "ListView117": [
+    "T1201 (420x245)"
+  ],
   "ListView118": [
     "261602 (280x211)"
   ],
