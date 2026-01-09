@@ -272,9 +272,7 @@
     "KK0501 (700x225)"
   ],
   "ListView45": [],
-  "ListView46": [
-    "KK1001 (420x246)"
-  ],
+  "ListView46": [],
   "ListView47": [],
   "ListView48": [],
   "ListView49": [
@@ -480,7 +478,9 @@
   "ListView113": [
     "A0602 (420x240)"
   ],
-  "ListView114": [],
+  "ListView114": [
+    "KK1001 (420x246)"
+  ],
   "ListView115": [],
   "ListView116": [],
   "ListView117": [
