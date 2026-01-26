@@ -383,8 +383,7 @@
   "ListView95": [],
   "ListView96": [
     "SA02N-1 (180x240)",
-    "SA03N-1 (180x240)",
-    "SA01N (360x245)"
+    "SA03N-1 (180x240)"
   ],
   "ListView97": [
     "SB01N-1 (180x270)",
@@ -470,7 +469,9 @@
   ],
   "ListView118": [],
   "ListView119": [],
-  "ListView120": [],
+  "ListView120": [
+    "SA01N (360x245)"
+  ],
   "ListView121": [],
   "ListView122": [],
   "ListView123": [],
