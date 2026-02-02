@@ -56,8 +56,7 @@
     "50307 (420x220)",
     "50308 (420x178)",
     "50306 (560x223)",
-    "50303 (560x223)",
-    "50302 (700x243)"
+    "50303 (560x223)"
   ],
   "ListView15": [
     "50403 (420x230)"
@@ -478,7 +477,9 @@
   "ListView110": [
     "30304 (420x186)"
   ],
-  "ListView111": [],
+  "ListView111": [
+    "50302 (700x243)"
+  ],
   "ListView112": [],
   "ListView113": [
     "A0804 (420x231)"
@@ -515,5 +516,15 @@
   "ListView138": [],
   "ListView139": [],
   "ListView140": [],
-  "ListView141": []
+  "ListView141": [],
+  "ListView142": [],
+  "ListView143": [],
+  "ListView144": [],
+  "ListView145": [],
+  "ListView146": [],
+  "ListView147": [],
+  "ListView148": [],
+  "ListView149": [],
+  "ListView150": [],
+  "ListView151": []
 }
