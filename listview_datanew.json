@@ -447,7 +447,6 @@
   "ListView97": [
     "SB01N-1 (180x270)",
     "SB05 (300x236)",
-    "SB02N (360x245)",
     "SB03N (360x240)",
     "SB04N (600x239.5)"
   ],
@@ -516,7 +515,9 @@
   "ListView117": [],
   "ListView118": [],
   "ListView119": [],
-  "ListView120": [],
+  "ListView120": [
+    "SB02N (360x245)"
+  ],
   "ListView121": [],
   "ListView122": [],
   "ListView123": [],
