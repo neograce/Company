@@ -416,8 +416,7 @@
     "261601 (420x245)"
   ],
   "ListView88": [
-    "AN0101 (560x230)",
-    "AN0102 (840x225)"
+    "AN0101 (560x230)"
   ],
   "ListView89": [
     "AN0201 (560x230)"
@@ -520,7 +519,9 @@
   "ListView116": [],
   "ListView117": [],
   "ListView118": [],
-  "ListView119": [],
+  "ListView119": [
+    "AN0102 (840x225)"
+  ],
   "ListView120": [],
   "ListView121": [],
   "ListView122": [],
