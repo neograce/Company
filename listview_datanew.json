@@ -258,9 +258,7 @@
   "ListView39": [
     "A0901 (560x195)"
   ],
-  "ListView40": [
-    "A1001 (420x237)"
-  ],
+  "ListView40": [],
   "ListView41": [
     "A1101 (420x240)"
   ],
@@ -515,7 +513,9 @@
     "50307 (420x220)"
   ],
   "ListView112": [],
-  "ListView113": [],
+  "ListView113": [
+    "A1001 (420x237)"
+  ],
   "ListView114": [],
   "ListView115": [],
   "ListView116": [],
