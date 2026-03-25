@@ -489,7 +489,6 @@
   ],
   "ListView99": [
     "SF01N-1 (180x270)",
-    "SF03N (360x236.5)",
     "SF04N (360x237)",
     "SF05N (360x236)",
     "SF06N (360x240)",
@@ -555,7 +554,9 @@
   "ListView117": [],
   "ListView118": [],
   "ListView119": [],
-  "ListView120": [],
+  "ListView120": [
+    "SF03N (360x236.5)"
+  ],
   "ListView121": [],
   "ListView122": [],
   "ListView123": [],
