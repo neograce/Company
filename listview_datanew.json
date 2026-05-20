@@ -49,8 +49,7 @@
   ],
   "ListView9": [],
   "ListView10": [
-    "31001 (280x217.5)",
-    "31002 (420x232)"
+    "31001 (280x217.5)"
   ],
   "ListView11": [
     "31101-1 (140x230)"
@@ -557,7 +556,9 @@
   "ListView107": [],
   "ListView108": [],
   "ListView109": [],
-  "ListView110": [],
+  "ListView110": [
+    "31002 (420x232)"
+  ],
   "ListView111": [],
   "ListView112": [],
   "ListView113": [],
