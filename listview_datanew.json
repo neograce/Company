@@ -522,8 +522,7 @@
     "SF04-1 (240x237)",
     "SF08N (480x226)",
     "SF09N (660x238.5)",
-    "SF02NL-1 (180X270)",
-    "SF01N-140238 (01)"
+    "SF02NL-1 (180X270)"
   ],
   "ListView100": [
     "SH03N-1 (180x270)",
@@ -608,7 +607,9 @@
   "ListView117": [],
   "ListView118": [],
   "ListView119": [],
-  "ListView120": [],
+  "ListView120": [
+    "SF01N-140238 (01)"
+  ],
   "ListView121": [],
   "ListView122": [],
   "ListView123": [],
