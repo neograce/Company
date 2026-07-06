@@ -356,7 +356,6 @@
     "60101-1 (140X234)"
   ],
   "ListView61": [
-    "60201 (420x226)",
     "60202 (560x219)"
   ],
   "ListView62": [],
@@ -604,7 +603,9 @@
   "ListView113": [],
   "ListView114": [],
   "ListView115": [],
-  "ListView116": [],
+  "ListView116": [
+    "60201 (420x226)"
+  ],
   "ListView117": [],
   "ListView118": [],
   "ListView119": [],
