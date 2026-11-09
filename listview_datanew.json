@@ -463,7 +463,9 @@
     "SB08N-1 (240X255)",
     "SB09N (480X236)"
   ],
-  "ListView98": [],
+  "ListView98": [
+    "SE01N (240X265)"
+  ],
   "ListView99": [],
   "ListView100": [
     "SH01NL-1 (130X236.5)",
